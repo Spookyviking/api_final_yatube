@@ -54,8 +54,4 @@ http://127.0.0.1:8000/api/v1/posts/{post_id}/comments/
 http://127.0.0.1:8000/api/v1/groups/
 ```
 ### Автор
-Максим Остапенко
-```
-spookyvikingooth@gmail.com
-```
-https://github.com/Spookyviking
+Максим Остапенко  spookyvikingooth@gmail.com  https://github.com/Spookyviking
