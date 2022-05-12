@@ -1,6 +1,11 @@
 # api_yatube
 Это проект API для Yatube.
 
+## Технологии
+- [Python 3.7.0](https://www.python.org/downloads/release/python-388/)
+- [Django 2.2.16](https://www.djangoproject.com/)
+- [Django Rest Framework 3.12.4](https://www.django-rest-framework.org/)
+
 ## Как запустить проект:
 ###### Клонировать репозиторий и перейти в его файл проекта:
 ```
@@ -14,7 +19,7 @@ cd api_final_yatube
 python -m venv venv
 ```
 ```
-source venv/scripts/activate
+source venv/Scripts/activate
 ```
 ###### Установить зависимости из файла requirements.txt:
 ```
