@@ -9,7 +9,7 @@
 ## Как запустить проект:
 ###### Клонировать репозиторий и перейти в его файл проекта:
 ```
-git clone https://github.com/EscapeFromHell/api_final_yatube.git
+git clone https://github.com/Spookyviking/api_final_yatube.git
 ```
 ```
 cd api_final_yatube
